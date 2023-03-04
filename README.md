@@ -1,5 +1,6 @@
 # ChatGPT API Integration
  ChatGPT API Integration with GPT-3.5-Turbo
+ https://openai.com/blog/introducing-chatgpt-and-whisper-apis#GregBrockman
 
 This repository contains an application that connects to the ChatGPT API to provide conversational support to users. The ChatGPT API is a language model developed by OpenAI that can generate human-like responses to text inputs.
 
@@ -9,6 +10,7 @@ The application provides the following features:
 A web-based chat interface for users to interact with the ChatGPT API
 Integration with the ChatGPT API to generate responses to user inputs
 Support for multiple languages through the ChatGPT API
+https://platform.openai.com/docs/guides/chat/chat-completions-beta
 ## Getting Started
 To use the application, follow these steps:
 
