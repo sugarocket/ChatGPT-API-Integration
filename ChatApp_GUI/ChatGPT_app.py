@@ -2,7 +2,7 @@
 import openai
 
 # Load your API key from an environment variable or secret management service
-openai.api_key = ("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")
+openai.api_key = ("API-Key")
 
 import tkinter as tk
 from tkinter import scrolledtext, END
