@@ -15,10 +15,10 @@ https://platform.openai.com/docs/guides/chat/chat-completions-beta
 To use the application, follow these steps:
 
 Clone the repository to your local machine
-Install the required dependencies by running pip install -r requirements.txt
+Install the required dependencies by running pip install openai
 Obtain an API key for the ChatGPT API from OpenAI
-Update the config.py file with your API key
-Run the application by running python app.py
+Update the ChatGPT_app.py file with your API key
+Run the application by running ChatGPT_app.py
 Access the application at http://localhost:5000
 ## Dependencies
 The application requires the following dependencies:
