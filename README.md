@@ -9,6 +9,8 @@ The application provides the following features:
 
 A web-based chat interface for users to interact with the ChatGPT API
 Integration with the ChatGPT API to generate responses to user inputs
+<img width="796" alt="Two_versions_API" src="https://user-images.githubusercontent.com/78404450/223866045-56036fde-ae7f-4553-9546-3648c5bab778.png">
+
 Support for multiple languages through the ChatGPT API
 https://platform.openai.com/docs/guides/chat/chat-completions-beta
 ## Getting Started
@@ -19,6 +21,7 @@ Install the required dependencies by running pip install openai
 Obtain an API key for the ChatGPT API from OpenAI
 Update the ChatGPT_app.py file with your API key
 Run the application by running ChatGPT_app.py
+<img width="726" alt="GUI" src="https://user-images.githubusercontent.com/78404450/223865930-0d8b23c3-657e-43af-905d-9a6cd85fd549.png">
 Access the application at http://localhost:5000
 ## Dependencies
 The application requires the following dependencies:
